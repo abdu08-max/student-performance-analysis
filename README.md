@@ -13,8 +13,8 @@ A simple data analysis project built using Python, Pandas, and Matplotlib.
 - Pandas
 - Matplotlib
 
-## Student Performance Analysis
-https://github.com/abdu08-max/student-performance-analysis/blob/main/student_analysis.png
+## Student Performance Analysis(student_analysis.png)
+
 
 ## Author
 Abdul

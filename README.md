@@ -13,6 +13,7 @@ A simple data analysis project built using Python, Pandas, and Matplotlib.
 - Pandas
 - Matplotlib
 
+## Student Performance Analysis
 ![Student Performance Analysis](student_analysis.png)
 
 
